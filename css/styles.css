@@ -627,7 +627,7 @@ ul.social-list li:nth-child(3) a:hover {
 /* ---------------SHOWCASE Section-01-------------- */
 
 #showcase-image .container-fluid {
-  background-image: url('../images/about us/Group 560.png');
+  background-image: url('../images/about us/aboutus-01.png');
   background-repeat: no-repeat;
   /* background-attachment: fixed; */
   background-size: cover;
@@ -657,11 +657,14 @@ margin-bottom: 20px;
 
 .our-story-column h1{
   text-align: center;
+  
 }
 
 .our-story-image img{
   max-width: 100%;
   height: auto;
+  border: 10px solid #ffffff;
+  outline: #000000 solid 1px;
 }
 
 .our-story-column p {
@@ -707,7 +710,7 @@ margin-bottom: 20px;
   /* height: auto!important ; */
 }
 #cta .container-fluid {
-  background: url('../images/about us/Group 566.png');
+  background: url('../images/about us/aboutus-03.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   /* height: auto; */
@@ -738,6 +741,8 @@ margin-bottom: 20px;
 .founders-image img {
   max-width: 100%;
   height: auto;
+  border: 12px solid #ffffff;
+  outline: #000000 solid 1px;
 }
 
 .founders-designation {
